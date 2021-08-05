@@ -5,9 +5,11 @@ Real time face mask detector using CNN architecture in TensorFlow keras environm
 Used libraries such as OpenCv, Numpy, Pandas etc.
 
 
+#demo video 
+
+https://user-images.githubusercontent.com/56929395/128363864-17feab14-530c-4bd7-9e8c-c8828568ca35.mp4
 
 
-https://user-images.githubusercontent.com/56929395/128362663-a4012f73-c9a6-4055-99a2-b24a1b07cacc.mp4
 
 
 data set : https://drive.google.com/drive/folders/1E1duFzKYfFCZ0soOsNKsUmcmPeI5_E56?usp=sharing
