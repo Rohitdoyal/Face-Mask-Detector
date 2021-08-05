@@ -1,5 +1,5 @@
 # Face-Mask-Detector
-CNN model that can predict whether a person is wearing a mask
+CNN model that can predict whether a person is wearing a mask<br>
 Real time face mask detector using CNN architecture in TensorFlow keras environment.
 
 Used libraries such as OpenCv, Numpy, Pandas etc.
